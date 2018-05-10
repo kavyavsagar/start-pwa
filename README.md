@@ -7,7 +7,7 @@ We have integrated PWA functionalities into a bootstrap theme which is downloade
 <pre>$ npm install -g live-server</pre>
 
 <pre>
-# Move your terminal to where your pages live
+# Move to your project directory
 $ cd start-pwa
 </pre>
 
